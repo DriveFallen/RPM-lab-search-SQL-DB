@@ -1,0 +1,11 @@
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\bin\Debug\lab_5.exe.config
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\bin\Debug\lab_5.exe
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\bin\Debug\lab_5.pdb
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.csprojAssemblyReference.cache
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.Form_BD.resources
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.выбор_Таблицы.resources
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.exe
+G:\Study\3 курс\МДК 01.01 РПМ\3 курс\Лабы\lab_5\obj\Debug\lab_5.pdb
